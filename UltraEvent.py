@@ -9,7 +9,7 @@ AUTH_ATTEMPTS = 10
 FIM_PATH = r"C:\test\malicious_test.exe"
 
 # URL del servidor Ubuntu con Nginx (poné la IP real)
-TARGET_WEB = "http://192.168.1.20"
+TARGET_WEB = "http://192.168.6.70"
 
 
 def brute_force_local():
